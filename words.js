@@ -31,3 +31,4 @@ const wordData = [
 { word: "记", meaning: "to write down; to note down", example: "请记一下时间。(Please note the time.)" },
 { word: "日期", meaning: "date", example: "请确认活动的日期。(Please confirm the date of the event.)" }
 ];
+
